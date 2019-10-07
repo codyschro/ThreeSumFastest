@@ -82,6 +82,7 @@ public class ThreeSumFastest {
         }
     }
 
+    //using as a guide: https://www.geeksforgeeks.org/find-triplets-array-whose-sum-equal-zero/
     public static int threeSumFastest(long[] list){
 
         //set variables
